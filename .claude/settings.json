@@ -1,0 +1,20 @@
+{
+    "permissions": {
+        "allow": [
+            "Bash",
+            "Edit",
+            "EnterPlanMode",
+            "ExitPlanMode",
+            "Glob",
+            "Grep",
+            "NotebookEdit",
+            "Read",
+            "TodoWrite",
+            "WebFetch",
+            "WebSearch",
+            "Write",
+            "mcp__ide__*",
+            "mcp__supabase__*"
+        ]
+    }
+}
