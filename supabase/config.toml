@@ -1,0 +1,4 @@
+project_id = "stuttgart"
+
+[analytics]
+enabled = false
